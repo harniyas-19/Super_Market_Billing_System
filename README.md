@@ -31,5 +31,4 @@ The system ensures:
 ✅ Exception handling for invalid operations
 
 
-Output:
 <img width="505" height="164" alt="image" src="https://github.com/user-attachments/assets/771e4f76-6eda-45a1-b3a6-c9768bb41561" />
